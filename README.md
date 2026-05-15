@@ -110,6 +110,6 @@ DNS / Networking     ███████████████████�
 
 ### `> Currently open to work — let's build something.`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matthew-morris-mjm)
 
 </div>
