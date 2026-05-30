@@ -13,12 +13,6 @@
 
 ---
 
-![CCNA](https://img.shields.io/badge/In%20Progress-CCNA-orange?style=for-the-badge)
-
-</div>
-
----
-
 ## 🖥️ About
 
 Certified full-stack developer with a focus on network security tooling, Python, and embedded hardware. I build things that give you visibility and control over your own infrastructure — from the terminal up.
@@ -40,28 +34,33 @@ Currently **open to work** — developer roles, security tooling, network engine
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot%20OS-00B4E6?style=for-the-badge&logo=linux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-15CDCA?style=for-the-badge&logo=parrotsecurity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
 ---
 
 ## 🚀 Projects
 
 ### 🔍 NetWatch
-> **Python · rich · OSINT · Network Intelligence**
+> **Python · Flask · OSINT · Honeypots · Network Intelligence**
 
-Terminal-based network OSINT tool built for real intelligence gathering — not just ping and pray.
+[![PyPI](https://img.shields.io/pypi/v/netwatch-sec.svg)](https://pypi.org/project/netwatch-sec/)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/mattymomo1993/netwatch/blob/main/LICENSE)
 
-- IP geolocation & WHOIS enumeration
-- DNS record analysis
-- Port scanning & banner grabbing
-- ProxyChains integration for anonymized recon
-- Built with Python `rich` for clean terminal UI
+All-in-one network security dashboard: 4 honeypots, live packet capture, OSINT, scanning, iptables defense, and LoRa mesh alerts. Single Python file, runs on a Pi.
 
-`[Coming Soon]`
+```bash
+pip install netwatch-sec
+sudo netwatch
+```
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/mattymomo1993/netwatch)
+[![PyPI](https://img.shields.io/badge/PyPI-Package-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/netwatch-sec/)
 
 ---
 
@@ -87,19 +86,19 @@ Converted a Raspberry Pi 3B+ into a full home router — Pi-hole, Unbound recurs
 ## 🧠 Skills
 
 <pre>
-Network Security     ████████████████████  
-Python               ████████████████████  
-Embedded Hardware    █████████████████░░░  
-Linux / Parrot OS    █████████████████████ 
-Full-Stack Dev       ████████████████░░░░  
-DNS / Networking     ████████████████████  
+Network Security     ████████████████████
+Python               ████████████████████
+Embedded Hardware    █████████████████░░░
+Linux / Parrot OS    █████████████████████
+Full-Stack Dev       ████████████████░░░░
+DNS / Networking     ████████████████████
 </pre>
 
 ---
 
 ## 📡 Embedded & Hardware
 
-- **Raspberry Pi** — routing, DNS filtering, network tooling
+- **Raspberry Pi** — routing, DNS filtering, network tooling, honeypot deployment
 - **ESP32 / ESP32-S3** — embedded development
 - **Mayhem V2 Dev Board** — ESP32 / nRF / CC1110
 - Network infrastructure — Cisco track (CCNA in progress)
@@ -111,5 +110,7 @@ DNS / Networking     ███████████████████�
 ### `> Currently open to work — let's build something.`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matthew-morris-mjm)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/mattymomo1993)
+[![PyPI](https://img.shields.io/badge/PyPI-netwatch--sec-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/netwatch-sec/)
 
 </div>
