@@ -1,4 +1,5 @@
-<div align="center">
+
+
 
 # mattymomo1993
 
@@ -48,6 +49,8 @@ Currently **open to work** — developer roles, security tooling, network engine
 
 ### 🔍 NetWatch
 > **Python · Flask · OSINT · Honeypots · Network Intelligence**
+> <img width="1678" height="1443" alt="netwatch-square" src="https://github.com/user-attachments/assets/7692e0b0-c846-45c5-b58e-f88eda9fc6d1" />
+
 
 [![PyPI](https://img.shields.io/pypi/v/netwatch-sec.svg)](https://pypi.org/project/netwatch-sec/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/mattymomo1993/netwatch/blob/main/LICENSE)
