@@ -1,9 +1,11 @@
 
 
 
-<div align="center">
+<img src="mylogo.jpg" alt="Morris Software & Development" width="200" align="left" hspace="24" vspace="20">
+<br clear="all">
 
-<img src="mylogo.jpg" alt="Morris Software & Development" width="200">
+
+<div align="center">
 
 # mattymomo1993
 
