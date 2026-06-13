@@ -53,7 +53,7 @@ Currently **open to work** — developer roles, security tooling, network engine
 
 ### 🔍 NetWatch
 > **Python · Flask · OSINT · Honeypots · Network Intelligence**
-> <img alt="NetWatch — all-in-one network security dashboard" src="https://raw.githubusercontent.com/Mattmorris-dev/netwatch-sec/main/docs/banner.png" width="100%" />
+> <img alt="NetWatch — network security dashboard" src="https://raw.githubusercontent.com/Mattmorris-dev/netwatch-sec/main/docs/netwatch-square.png" width="300" />
 
 
 [![PyPI](https://img.shields.io/pypi/v/netwatch-sec.svg)](https://pypi.org/project/netwatch-sec/)
