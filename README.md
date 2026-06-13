@@ -51,11 +51,11 @@ Currently **open to work** — developer roles, security tooling, network engine
 
 ### 🔍 NetWatch
 > **Python · Flask · OSINT · Honeypots · Network Intelligence**
-> <img width="1678" height="1443" alt="netwatch-square" src="https://github.com/user-attachments/assets/7692e0b0-c846-45c5-b58e-f88eda9fc6d1" />
+> <img alt="NetWatch — all-in-one network security dashboard" src="https://raw.githubusercontent.com/Mattmorris-dev/netwatch-sec/main/docs/banner.png" width="100%" />
 
 
 [![PyPI](https://img.shields.io/pypi/v/netwatch-sec.svg)](https://pypi.org/project/netwatch-sec/)
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/mattymomo1993/netwatch/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://github.com/Mattmorris-dev/netwatch-sec/blob/main/LICENSE)
 
 All-in-one network security dashboard: 4 honeypots, live packet capture, OSINT, scanning, iptables defense, and LoRa mesh alerts. Single Python file, runs on a Pi.
 
@@ -64,7 +64,7 @@ pip install netwatch-sec
 sudo netwatch
 ```
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/mattymomo1993/netwatch)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Mattmorris-dev/netwatch-sec)
 [![PyPI](https://img.shields.io/badge/PyPI-Package-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/netwatch-sec/)
 
 ---
