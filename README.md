@@ -3,6 +3,8 @@
 
 <div align="center">
 
+<img src="mylogo.jpg" alt="Morris Software & Development" width="200">
+
 # mattymomo1993
 
 ### `> Full-Stack Developer · Python · Embedded Systems · Network Security`
@@ -66,6 +68,16 @@ sudo netwatch
 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Mattmorris-dev/netwatch-sec)
 [![PyPI](https://img.shields.io/badge/PyPI-Package-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/netwatch-sec/)
+
+---
+
+### 🧠 Sentinel-SLM
+> **C · Deep RNN · AI Security · Zero-Dependency**
+
+A self-contained AI security agent in a single C file — a deep RNN that runs with no cloud, no API keys, no vendor, and no per-token bill.
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Mattmorris-dev/Sentinel-SLM)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/Mattmorris-dev/Sentinel-SLM/blob/main/LICENSE)
 
 ---
 
